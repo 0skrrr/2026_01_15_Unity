@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d636d25484f47d5448828263e5ec91ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - snowflakePrefab: {fileID: 8029288673892545254, guid: 148882ccf76c9ab4d8417c5de1a9c385, type: 3}
+  - leftPoint: {instanceID: 0}
+  - rightPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
